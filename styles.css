@@ -5,6 +5,8 @@ body{margin: auto;
       font-style: normal;}
 h1{size: 40px;}
 .orange-highlight{color: orange;}
-.half-width{width: 40%;margin-left: 5%;padding-left: 2%;}
+.half-width{width: 40%;margin-left: 5%;padding-left: 2%;float: left;}
 .link-button{text-decoration: none;background-image: linear-gradient(45deg, red, tomato);padding: 10px 20px;color: white;font-weight: 700px;}
-section{margin-bottom: 40px;}
+section{height: 400px;margin-bottom: 40px;}
+.single-area{box-shadow: 10px 10px 40px gray;height: 80%;}
+#spouse{border-left: 7px solid;border-image: linear-gradient(180deg, lightsalmon, tomato);border-image-slice: 1;border-radius: 5px;}
