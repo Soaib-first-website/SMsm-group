@@ -10,3 +10,14 @@ h1{size: 40px;}
 section{height: 400px;margin-bottom: 40px;}
 .single-area{box-shadow: 10px 10px 40px gray;height: 80%;}
 #spouse{border-left: 7px solid;border-image: linear-gradient(180deg, lightsalmon, tomato);border-image-slice: 1;border-radius: 5px;}
+#marriage{border-left: 7px solid;
+      border-image:linear-gradient(180deg, blue, cyan);
+border-image-slice: 1;}
+.single{box-shadow: 10px 10px 40px lightsalmon;background-color:lightcyan;}
+#section{border-left: 7px solid;
+      border-image: linear-gradient(180deg, red, yellow,tomato);
+border-image-slice: 2;border-radius: 5px;}
+.area{box-shadow: 10px 10px 40px yellow;border-radius: 5px;background-color: aquamarine;}
+#another{border-left: 7px solid;
+      border-image: linear-gradient(180deg, blue,yellow,red);
+border-image-slice: 2;}
